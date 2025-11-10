@@ -1,0 +1,14 @@
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.AssemblyInfo.cs
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.csproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\bin\Debug\net8.0\week2Practice.exe
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\bin\Debug\net8.0\week2Practice.deps.json
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\bin\Debug\net8.0\week2Practice.runtimeconfig.json
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\bin\Debug\net8.0\week2Practice.dll
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\bin\Debug\net8.0\week2Practice.pdb
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.dll
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\refint\week2Practice.dll
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.pdb
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\week2Practice.genruntimeconfig.cache
+C:\Users\anmol\Desktop\dotNetPractice\week2Practice\week2Practice\obj\Debug\net8.0\ref\week2Practice.dll
