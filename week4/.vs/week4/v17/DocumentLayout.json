@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|c:\\users\\anmol\\desktop\\assignment ad\\dotnetpractice\\week4\\week4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|solutionrelative:week4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|c:\\users\\anmol\\desktop\\assignment ad\\dotnetpractice\\week4\\week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|solutionrelative:week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|c:\\users\\anmol\\desktop\\assignment ad\\dotnetpractice\\week4\\week4\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|solutionrelative:week4\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E68CC0E8-4494-4108-AF35-C1EDD0346213}|week4\\week4.csproj|c:\\users\\anmol\\desktop\\assignment ad\\dotnetpractice\\week4\\week4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,16 +34,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "debugging.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\debugging.cs",
+              "RelativeDocumentMoniker": "week4\\debugging.cs",
+              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\debugging.cs",
+              "RelativeToolTip": "week4\\debugging.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:39:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Player.cs",
+              "RelativeDocumentMoniker": "week4\\Player.cs",
+              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Player.cs",
+              "RelativeToolTip": "week4\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:08:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ParameterDemo.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\ParameterDemo.cs",
               "RelativeDocumentMoniker": "week4\\ParameterDemo.cs",
-              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\ParameterDemo.cs*",
-              "RelativeToolTip": "week4\\ParameterDemo.cs*",
+              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\ParameterDemo.cs",
+              "RelativeToolTip": "week4\\ParameterDemo.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T01:54:47.853Z",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Calculator.cs",
               "RelativeDocumentMoniker": "week4\\Calculator.cs",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Student.cs",
               "RelativeDocumentMoniker": "week4\\Student.cs",
@@ -69,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Program.cs",
               "RelativeDocumentMoniker": "week4\\Program.cs",
-              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Program.cs*",
-              "RelativeToolTip": "week4\\Program.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\anmol\\Desktop\\assignment AD\\DotNetPractice\\week4\\week4\\Program.cs",
+              "RelativeToolTip": "week4\\Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T00:59:15.551Z",
               "EditorCaption": ""
