@@ -1,0 +1,5 @@
+C:\Users\anmol\Desktop\assignment AD\DotNetPractice\week5\week5\obj\Debug\net8.0\week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\assignment AD\DotNetPractice\week5\week5\obj\Debug\net8.0\week5.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\assignment AD\DotNetPractice\week5\week5\obj\Debug\net8.0\week5.AssemblyInfo.cs
+C:\Users\anmol\Desktop\assignment AD\DotNetPractice\week5\week5\obj\Debug\net8.0\week5.csproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\assignment AD\DotNetPractice\week5\week5\obj\Debug\net8.0\week5.sourcelink.json
